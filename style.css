@@ -1,6 +1,10 @@
 *{
     margin: 20px;
 }
+.google-fonts{
+  font-family: "Azeret Mono", monospace;
+}
+
 .nab-section{
     display: flex;
     justify-content:space-between;
@@ -18,7 +22,7 @@
     color: white;
     font-size: 20px;
     font-weight: 800;
-    padding: 24px,21px;
+    padding: 21px;
 }
 .i-will-do{
 margin-top: 10px;
@@ -74,4 +78,32 @@ text-align: center;
     padding: 10px;
     border-radius: 8px;
     border: none;
+}
+.header-heading{
+    font-size: 48px;
+    font-weight: 700;
+}
+.paragrph-font{
+    font-size: 16px;
+}
+.header-heading-text{
+    font-size: 48px; 
+    font-weight: 700;
+}
+.first-part-heading{
+    font-size: 24px;
+    font-weight: 700;
+    color: (13, 19, 33, 0.7);
+}
+.my-inspiration-heading{
+    font-size: 32px;
+    font-weight: 700;
+}
+.first-language{
+    font-size:24px;
+    font-weight: 700;
+}
+.end-text{
+    font-size:20px;
+    font-weight: 600;
 }
