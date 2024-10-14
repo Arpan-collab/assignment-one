@@ -1,0 +1,77 @@
+*{
+    margin: 20px;
+}
+.nab-section{
+    display: flex;
+    justify-content:space-between;
+    border-radius: 8px;
+}
+.head-section{
+    background-image: url(/assets/Hero-bg.png);
+}
+.head-section-text{
+    text-align: center;
+}
+.button{
+    background-color: black;
+    border-radius: 8px;
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    padding: 24px,21px;
+}
+.i-will-do{
+margin-top: 10px;
+}
+.head-part{
+text-align: center;
+}
+.first-part{
+    display: flex;
+    justify-content:space-between;
+}
+.second-part{
+    display: flex;
+    gap: 20px;
+}
+.my-inspiration{
+    text-align: center;
+}
+.jhankar-vaiyar-roadmap-video{
+    text-align: center;
+}
+
+.my-target{
+    text-align: center;
+    
+}
+.my-current-target{
+    display: flex;
+}
+.learning-part{
+    display: flex;
+}
+.target-secction{
+    padding-bottom: 20px;
+}
+.footer-section{
+    background-image: url(/assets/handshake.jpg);
+    border-radius: 16px;
+}
+.footer-text{
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+.input-box{
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+}
+.submit-box{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+}
