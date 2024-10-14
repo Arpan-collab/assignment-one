@@ -59,7 +59,7 @@ text-align: center;
     padding-bottom: 20px;
 }
 .footer-section{
-    background-image: url(/assets/handshake.jpg);
+    background-image: url(./assets/handshake.jpg);
     border-radius: 16px;
 }
 .footer-text{
